@@ -1,0 +1,160 @@
+/* General Styles */
+.page-border {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top:20px; 
+  margin-bottom:20px; 
+  margin-left:20px; 
+  margin-right:20px
+}
+body {
+  background: url("../Images/dotted paper background.png") center center fixed;
+  background-size: cover;
+}
+
+/* Navigation Bar Styles */
+.dashed-border {
+  position: absolute;
+  margin-left: 0.5%;
+  width: 1211px;
+  height: 65px;
+  left: 17px;
+  top: 5%;
+  background: white;
+  color: black;
+  border-radius: 50px;
+  border: 2px dashed;
+}
+
+.Nav {
+  margin-right: 2%;
+  margin-top: 0.6%;
+}
+
+.topnav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.topnav a {
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font: 20px Arial;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+.Navbut a {
+  color: white;
+  padding: 5px 16px;
+  text-decoration: none;
+  font: 20px Arial;
+  background-color: black;
+  border-radius: 30px;
+  margin-top: 0.8%;
+  margin-left: 0.8%;
+}
+
+.Navbut a:hover {
+  background-color: black;
+  border-radius: 30px;
+  color: white;
+}
+
+.Navbut a.active {
+  color: black;
+  border-radius: 30px;
+}
+
+/* Circular boxes */
+.circular-box-1,
+.circular-box-2,
+.circular-box-3 {
+  position: absolute;
+  width: 1211px;
+  height: 40px;
+  background: black;
+  color: black;
+  border-radius: 50px;
+}
+
+.circular-box-text-1,
+.circular-box-text-2,
+.circular-box-text-3 {
+  margin-left: 0px;
+  margin-top: -4px;
+  margin-bottom: 10px;
+  font: 15px Arial;
+  color: white;
+}
+
+.hero-photo {
+  width:1120px; 
+  height:250px;
+  padding-top: 150px; 
+  padding-left:50px; 
+  padding-right:0px;
+}
+
+
+/*Images*/
+
+.profile-image {
+border:solid thin black;
+border-radius: 50%; 
+margin-bottom:20px; 
+margin-top: 300px; 
+margin-left: 50px;
+width: 300px;
+height: 300px;
+}
+
+.about-me-image {
+  width: 700px;
+  height: 350px;
+  margin-left: 0px;
+  margin-top: 10px;
+  
+}
+
+.circular-box-1 {
+  top: 500px;
+  left: 25px;
+}
+
+.circular-box-2 {
+  top: 700px;
+  left: 0px;
+}
+
+.circular-box-3 {
+  top: 300px;
+  left: 0px;
+}
+
+/* Footer */
+.footer {
+  box-sizing: border-box;
+  background: white;
+  border: 2px dashed;
+  color: black;
+  border-radius: 50px;
+  width: 1208px;
+  height: 65px;
+  left: 25px;
+  top: 55px;
+  margin-left: 2%;
+  margin-bottom: 1%;
+  margin-top: 50%;
+}
+
+.footer-text {
+  margin-left: 50px;
+  margin-top: 25px;
+  font: 15px Arial;
+}
