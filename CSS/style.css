@@ -178,6 +178,7 @@ height: 300px;
 .tag-4 {
   font-family: "Gill Sans MT";
   font-size: 15px;
+  display: block;
 }
 
 .tag-1 {
@@ -209,6 +210,7 @@ height: 300px;
 .tag-8 {
   font-family: "Gill Sans MT";
   font-size: 15px;
+  display: block;
 }
 
 .tag-5 {
@@ -239,6 +241,7 @@ height: 300px;
 .tag-12 {
   font-family: "Gill Sans MT";
   font-size: 15px;
+  display: block;
 }
 
 .tag-9 {
@@ -270,6 +273,7 @@ height: 300px;
 .tag-16 {
   font-family: "Gill Sans MT";
   font-size: 15px;
+  display: block;
 }
 
 .tag-13 {
@@ -311,6 +315,12 @@ height: 300px;
   margin-left: 17px;
 }
 
+.social-media-icons{
+  width: 160px;
+  height: 30px;
+  margin-left: 1000px;
+  padding-top: -100px;
+}
 .footer-text {
   margin-left: 50px;
   margin-top: 25px;
