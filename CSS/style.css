@@ -37,6 +37,8 @@ body {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-top: -37px;
+  margin-right: 150px;
 }
 
 .topnav a {
@@ -51,12 +53,21 @@ body {
   text-decoration: underline;
 }
 
+.Navbut {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 13px;
+}
+
 .Navbut a {
   color: white;
+  padding: 5px 16px;
   text-decoration: none;
   font: 20px Arial;
   background-color: black;
   border-radius: 30px;
+  
 }
 
 .Navbut a:hover {
