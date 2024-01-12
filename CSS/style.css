@@ -157,10 +157,13 @@ height: 300px;
 .case-study-list-text-2,
 .case-study-list-text-3,
 .case-study-list-text-4  {
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font: 15px Arial;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  font-family: "Gill Sans MT";
+  font-size: 25px;
+  font-weight: bold;
   color: black;
+  margin-left: 10px;
 
 }
 
