@@ -130,7 +130,8 @@ height: 300px;
 }
 
 .circular-box-2 {
-  top: 700px;
+  top: 750px;
+
   margin-left: -3px;
 }
 
@@ -149,7 +150,7 @@ height: 300px;
   border-radius: 10px;
   width: 1180px;
   height: 100px;
-  margin-top: 30px;
+  margin-top: 10px;
   
 }
 
@@ -160,7 +161,7 @@ height: 300px;
   margin-top: 20px;
   margin-bottom: 25px;
   font-family: "Gill Sans MT";
-  font-size: 25px;
+  font-size: 35px;
   font-weight: bold;
   color: black;
   margin-left: 10px;
@@ -168,22 +169,134 @@ height: 300px;
 }
 
 
-.case-study-list-item-1 {
-  top: 500px;
+/*Case study item 1*/
+
+.tag-1,
+.tag-2,
+.tag-3,
+.tag-4 {
+  font-family: "Gill Sans MT";
+  font-size: 15px;
 }
 
-.case-study-list-item-2 {
-  top: 700px;
+.tag-1 {
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
-.case-study-list-item-3 {
-  top: 300px;
+.tag-2 {
+ margin-right: 20px;
+ margin-top: 10px;
+}
+
+.tag-3 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-4 {
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
 
-.case-study-list-item-4 {
-  top: 300px;
+/*Case study item 2*/
+
+.tag-5,
+.tag-6,
+.tag-7,
+.tag-8 {
+  font-family: "Gill Sans MT";
+  font-size: 15px;
 }
+
+.tag-5 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-6 {
+ margin-right: 20px;
+ margin-top: 10px;
+}
+
+.tag-7 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-8 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+/*Case study item 3*/
+
+.tag-9,
+.tag-10,
+.tag-11,
+.tag-12 {
+  font-family: "Gill Sans MT";
+  font-size: 15px;
+}
+
+.tag-9 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-10 {
+ margin-right: 20px;
+ margin-top: 10px;
+}
+
+.tag-11 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-12 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+
+/*Case study item 4*/
+
+.tag-13,
+.tag-14,
+.tag-15,
+.tag-16 {
+  font-family: "Gill Sans MT";
+  font-size: 15px;
+}
+
+.tag-13 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-14 {
+ margin-right: 20px;
+ margin-top: 10px;
+}
+
+.tag-15 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.tag-16 {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
 
 
 /* Footer */
