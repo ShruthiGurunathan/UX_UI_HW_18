@@ -53,12 +53,10 @@ body {
 
 .Navbut a {
   color: white;
-  padding: 5px 16px;
   text-decoration: none;
   font: 20px Arial;
   background-color: black;
   border-radius: 30px;
-align-items: center;
 }
 
 .Navbut a:hover {
@@ -328,4 +326,3 @@ height: 300px;
   margin-left: 1000px;
   padding-top: 15px;
 }
-
