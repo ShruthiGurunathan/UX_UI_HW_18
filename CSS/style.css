@@ -313,16 +313,19 @@ height: 300px;
   height: 65px;
   margin-top: 115%;
   margin-left: 17px;
+
+}
+.footer-text {
+  font-size: 15px;
+  font-family: arial;
+  margin-top: -40px;
+  margin-left: 20px;
 }
 
-.social-media-icons{
+.social-media-icons {
   width: 160px;
   height: 30px;
   margin-left: 1000px;
-  padding-top: -100px;
+  padding-top: 15px;
 }
-.footer-text {
-  margin-left: 50px;
-  margin-top: 25px;
-  font: 15px Arial;
-}
+
