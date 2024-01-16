@@ -306,6 +306,27 @@ height: 300px;
 }
 
 
+/* Media Queries */
+
+@media only screen and (max-width: 768px) {
+.page-border,
+.dashed-border,
+.circular-box-1,
+.circular-box-2,
+.circular-box-3,
+.hero-photo,
+.profile-image,
+.about-me-image,
+.case-study-list-item-1,
+.case-study-list-item-2,
+.case-study-list-item-3,
+.case-study-list-item-4,
+.footer {
+width: 90%;
+margin-left: 5%;
+
+}
+}
 
 
 
